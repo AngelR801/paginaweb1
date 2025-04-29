@@ -1,0 +1,40 @@
+body {
+    background-color: #ffe4ec;
+    font-family: 'Arial', sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    margin-top: 50px;
+}
+
+.cute-img {
+    width: 150px;
+}
+
+.buttons {
+    margin-top: 20px;
+}
+
+.btn {
+    background-color: #ff7fa8;
+    border: none;
+    padding: 15px 30px;
+    margin: 10px;
+    color: white;
+    font-size: 18px;
+    border-radius: 25px;
+    cursor: pointer;
+    position: relative;
+}
+
+.hidden {
+    display: none;
+}
+
+.result-gif {
+    width: 200px;
+    margin-top: 20px;
+}
